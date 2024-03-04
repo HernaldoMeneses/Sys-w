@@ -18,3 +18,5 @@ Batch Script is incorporated to automate command sequences
     Extensions for Batch is BAT or CMD
         Recognized and executed through an interface called a shell provided by a system file called Command interpreter
         On Windows system, this interpreter is known as cmd.exe.
+rem pg. 
+rem file:///L:/Linear_/Base-Jump_05/BatchScript.pdf
